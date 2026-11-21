@@ -1,0 +1,225 @@
+{
+  "method": "Direct language-model editorial merge in the coding session; no external API calls; source categories retained.",
+  "merges": [
+    {
+      "recording_id": "3_50",
+      "step_index": 3,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Not using dried and cleaned measuring spoons (might contaminate the ingredients)",
+        "Use cheddar cheese instead of mozzarella cheese"
+      ],
+      "merged_description": "Used measuring spoons that were not clean and dry, risking ingredient contamination, and used cheddar cheese instead of mozzarella cheese."
+    },
+    {
+      "recording_id": "5_27",
+      "step_index": 12,
+      "category": "Technique Error",
+      "original_descriptions": [
+        "Spill while pouring the milk",
+        "Did not pour in circular motion"
+      ],
+      "merged_description": "Spilled milk while pouring and did not pour in a circular motion."
+    },
+    {
+      "recording_id": "5_44",
+      "step_index": 8,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Pour from tap into the filter by using measuring cup to wet the grounds",
+        "Did not pour water from kettle into the filter."
+      ],
+      "merged_description": "Wetted the grounds by pouring tap water into the filter with a measuring cup instead of pouring water from the kettle."
+    },
+    {
+      "recording_id": "7_38",
+      "step_index": 3,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Add minced garlic instead of sweet and sour sauce",
+        "Placing the overflown contents back into the bowl to add sauce"
+      ],
+      "merged_description": "Added minced garlic instead of sweet and sour sauce and put the overflowed contents back into the bowl to add sauce."
+    },
+    {
+      "recording_id": "7_44",
+      "step_index": 3,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Microwave without stirring in between",
+        "Using a mug instead of a bowl"
+      ],
+      "merged_description": "Microwaved without stirring in between and used a mug instead of a bowl."
+    },
+    {
+      "recording_id": "7_44",
+      "step_index": 5,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Using unclean measuring spoon to add salsa",
+        "Using a mug instead of a bowl"
+      ],
+      "merged_description": "Used an unclean measuring spoon to add salsa and used a mug instead of a bowl."
+    },
+    {
+      "recording_id": "8_26",
+      "step_index": 5,
+      "category": "Temperature Error",
+      "original_descriptions": [
+        "Microwave on low and high power",
+        "Microwaved on high for 8 secs"
+      ],
+      "merged_description": "Microwaved at both low and high power, including 8 seconds at high power."
+    },
+    {
+      "recording_id": "12_41",
+      "step_index": 5,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Season tomato slices with powdered sugar instead of salt",
+        "Seasoned on chopping board instead of platter"
+      ],
+      "merged_description": "Seasoned the tomato slices with powdered sugar instead of salt and on a chopping board instead of a platter."
+    },
+    {
+      "recording_id": "13_32",
+      "step_index": 3,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Added garlic butter instead of plain butter",
+        "Used hands to add butter"
+      ],
+      "merged_description": "Added garlic butter instead of plain butter using hands."
+    },
+    {
+      "recording_id": "17_29",
+      "step_index": 3,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Peeled using fork instead of peeler",
+        "Used zucchini instead of cucumber"
+      ],
+      "merged_description": "Used zucchini instead of cucumber and peeled it with a fork instead of a peeler."
+    },
+    {
+      "recording_id": "18_101",
+      "step_index": 2,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Added garlic butter",
+        "Used hands to add butter to pan"
+      ],
+      "merged_description": "Added garlic butter to the pan using hands."
+    },
+    {
+      "recording_id": "20_32",
+      "step_index": 6,
+      "category": "Order Error",
+      "original_descriptions": [
+        "add oil now",
+        "Step performed before preparing the ingredients"
+      ],
+      "merged_description": "Added oil before preparing the ingredients."
+    },
+    {
+      "recording_id": "20_44",
+      "step_index": 2,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Use onions instead of garlic",
+        "Mince on paper towel"
+      ],
+      "merged_description": "Used onions instead of garlic and minced them on a paper towel."
+    },
+    {
+      "recording_id": "20_44",
+      "step_index": 7,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Chop on paper towel",
+        "Did not peel the shallot"
+      ],
+      "merged_description": "Chopped the shallot on a paper towel without peeling it."
+    },
+    {
+      "recording_id": "25_40",
+      "step_index": 16,
+      "category": "Technique Error",
+      "original_descriptions": [
+        "Do not flip all the tofu pieces",
+        "Spilled some tofu pieces and oil while flipping"
+      ],
+      "merged_description": "Failed to flip all the tofu pieces and spilled some tofu pieces and oil while flipping."
+    },
+    {
+      "recording_id": "26_30",
+      "step_index": 9,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Use spoon instead of whisker to whisk batter until no lumps remain",
+        "Using hands in the last few seconds of the video"
+      ],
+      "merged_description": "Mixed the batter with a spoon instead of using a whisk to remove the lumps, then used hands during the final few seconds."
+    },
+    {
+      "recording_id": "26_46",
+      "step_index": 1,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Did not clean the measuring cup before scooping flour and adding it to the cup",
+        "Used a mug instead of mixing bowl"
+      ],
+      "merged_description": "Used an uncleaned measuring cup to scoop and add flour and used a mug instead of a mixing bowl."
+    },
+    {
+      "recording_id": "26_136",
+      "step_index": 3,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "use brown sugar instead of white sugar",
+        "Use of unclean measuring spoon"
+      ],
+      "merged_description": "Used brown sugar instead of white sugar and an unclean measuring spoon."
+    },
+    {
+      "recording_id": "26_136",
+      "step_index": 13,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Cannot invert due to the tissue paper. Use a spoon to Invert the mug to release the cake onto a plate",
+        "Invert into a bowl instead of a plate"
+      ],
+      "merged_description": "Used a spoon to release the cake from the inverted mug because tissue paper prevented it from coming out, and released it into a bowl instead of onto a plate."
+    },
+    {
+      "recording_id": "27_37",
+      "step_index": 2,
+      "category": "Technique Error",
+      "original_descriptions": [
+        "Chop into large bits rather than tiny bits",
+        "Chopped without removing seeds"
+      ],
+      "merged_description": "Chopped into large rather than tiny pieces without removing the seeds."
+    },
+    {
+      "recording_id": "28_42",
+      "step_index": 15,
+      "category": "Technique Error",
+      "original_descriptions": [
+        "Did not roll it, just folded the lettuce wraps",
+        "Spill something outside while rolling the lettuce wraps"
+      ],
+      "merged_description": "Folded the lettuce wraps instead of rolling them and spilled some contents outside while attempting to roll them."
+    },
+    {
+      "recording_id": "29_35",
+      "step_index": 1,
+      "category": "Preparation Error",
+      "original_descriptions": [
+        "Using muffin instead of baguette",
+        "Using peeler instead of knife to slice"
+      ],
+      "merged_description": "Used a muffin instead of a baguette and sliced it with a peeler instead of a knife."
+    }
+  ]
+}
