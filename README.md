@@ -130,13 +130,14 @@ Each run directory under `evaluate/results/` contains `metrics.json`, `summary.m
 ## Citation
 
 ```bibtex
-@article{xaqa2026,
-  title   = {X-AQA: Unifying Action Quality Assessment with Multimodal Large Language Models
-             and Multi-Domain Learning},
-  author  = {Zheng, Kaili and Ding, Wei and Ding, Yuchen and Wang, Kaiwen and Zhu, Xun and
-             Guo, Chenyi and Zhang, Yudong and Wu, Ji},
-  journal = {arXiv preprint arXiv:2611.28548},
-  year    = {2026}
+@misc{zheng2026xaqa,
+  title={X-AQA: Unifying Action Quality Assessment with Multimodal Large Language Models and Multi-Domain Learning}, 
+  author={Kaili Zheng and Wei Ding and Yuchen Ding and Kaiwen Wang and Xun Zhu and Chenyi Guo and Yudong Zhang and Ji Wu},
+  year={2026},
+  eprint={2611.28548},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2611.28548}, 
 }
 ```
 
