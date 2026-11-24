@@ -2,7 +2,7 @@
 
 **Unifying Action Quality Assessment with Multimodal Large Language Models and Multi-Domain Learning**
 
-[![arXiv](https://img.shields.io/badge/Paper-arXiv%3AXXXX.XXXXX-B31B1B.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/Paper-arXiv%3A2611.28548-B31B1B.svg)](https://arxiv.org/abs/2611.28548)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 X-AQA is a unified training and evaluation framework for general-purpose action quality
@@ -135,7 +135,7 @@ Each run directory under `evaluate/results/` contains `metrics.json`, `summary.m
              and Multi-Domain Learning},
   author  = {Zheng, Kaili and Ding, Wei and Ding, Yuchen and Wang, Kaiwen and Zhu, Xun and
              Guo, Chenyi and Zhang, Yudong and Wu, Ji},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2611.28548},
   year    = {2026}
 }
 ```
