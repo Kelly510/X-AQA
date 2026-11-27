@@ -10,6 +10,15 @@ assessment. It converts heterogeneous AQA annotations into one question-answerin
 trains a single multimodal LLM across four domains: competitive sports, fitness exercises,
 rehabilitation, and general skills.
 
+<p align="center">
+  <img src="assets/overview.png" alt="Overview of X-AQA: (a) X-AQA-40K data curation, (b) unified multi-domain assessment with a single MLLM, and (c) X-AQA-Bench evaluation." width="100%">
+</p>
+
+<p align="center"><em>Overview of X-AQA. (a) X-AQA-40K is curated from 22 data sources across four
+domains. (b) A single MLLM produces scores, categories, or textual assessments, with assessment
+criteria provided when available. (c) The model is evaluated across all assessment tasks on
+X-AQA-Bench.</em></p>
+
 - **X-AQA-40K** — 40,163 training samples over 19,614 media files from 22 public datasets.
 - **X-AQA-Bench** — 5,366 in-domain and 1,735 out-of-domain test requests over 31 tasks.
 - **X-AQA-9B** — the released model, initialized from Qwen3.5-9B and trained with LoRA.
